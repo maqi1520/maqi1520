@@ -31,4 +31,6 @@
 
 </p>
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maqi1520)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=maqi1520)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://4sdvg7tqbv.us.aircode.run/juejin?uid=2189882895384093&hide_border=true" alt="狂奔滴小马掘金数据" style="zoom:100%;" align="left"/>
